@@ -1,0 +1,25 @@
+{
+  "name": "typeset",
+  "authors": [
+    "Adam Kirkwood <hello@adamkirkwood.com>"
+  ],
+  "version": "0.1.0",
+  "description": "Friendlier typesettings with Sass Maps",
+  "main": "_typeset.scss",
+  "keywords": [
+    "sass",
+    "sass-maps",
+    "maps",
+    "typography",
+    "typesetting"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/adamkirkwood/typeset#readme",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

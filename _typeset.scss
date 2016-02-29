@@ -1,0 +1,5 @@
+$typesettings: () !default;
+
+@function typeset($font, $value: "base") {
+  @return map-get(map-get($typesettings, $font), $value);
+}
